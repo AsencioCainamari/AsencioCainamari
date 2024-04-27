@@ -1,22 +1,21 @@
 # PROYECTO DEL IESTP MISIONEROS MONFORTIANOS
 
-Este proyecto fue realizado en el instituto de educacion Superior Tecnologico Publico "Misioneros monfortianos" con los alumnos del quinto turno noche y su docente lindo, bello y precioso LAGA.
+![Top Langs](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Wq8sCObG2ruGNlkRyQTsf2CYfO2ArQQwEsT8h8W4bQ&s)
+
+Este proyecto fue realizado en el instituto de educacion Superior Tecnologico Publico "Misioneros monfortianos" con los alumnos del quinto turno noche y su docente lindo, bello y precioso.
+
+**ALUMNO:** Asencio Cainamari
 
 Las Herramientas utilizadas  para su desarrollo fueron.
 
 * HTML
 * CSS
-* Flex Box
-* Resposive Web Design
+* java
+* php
 * GitHub
 
-_Este proyecto es la solucion a uno de los desafios de la plataforma F rontEnd M entor
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
-**ALUMNO:** Aqui va un nombre
-
-| ESPECIALIDAD | comentario |
---------------- :-----------
-DSI   |  Esta es la Carrera  |
-Enfermeria  ! No pasa nada    |
-Mecanica Automotriz  | No pasa nada |
+Este proyecto es la solucion a uno de los desafios de la plataforma  FrontEndMentor
