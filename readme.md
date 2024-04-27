@@ -14,8 +14,8 @@ Las Herramientas utilizadas  para su desarrollo fueron.
 * php
 * GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsencioCainamari&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsencioCainamari&langs_count=8)
 
 Este proyecto es la solucion a uno de los desafios de la plataforma  FrontEndMentor
